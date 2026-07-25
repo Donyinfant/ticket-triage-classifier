@@ -1,0 +1,142 @@
+subject,body,category,is_ambiguous
+Website contact form test,How can I get in touch with your sales team about enterprise pricing?,General,False
+App keeps crashing,"It looks like the whole site is down, I'm getting a 'service unavailable' message and so is my coworker.",Technical,False
+Press inquiry,I'm filling out this form just to test that it reaches your support inbox correctly.,General,False
+Event invitation,I'm filling out this form just to test that it reaches your support inbox correctly.,General,False
+"App not working, need refund",The app crashes constantly and honestly at this point I just want my money back for the subscription.,Technical,True
+Payment failed,The payment for my account failed even though my card has sufficient balance. Please retry the charge or tell me how to update payment details.,Billing,False
+Resignation notice,Could you tell me how many PTO days I currently have left for this year?,HR,False
+Question about my invoice,I was charged twice for my January subscription and I need the duplicate charge refunded to my card.,Billing,False
+Question about PTO balance,"I want to file a formal complaint about a conflict I've been having with a coworker, who should I talk to?",HR,False
+App keeps crashing,"I found a bug: when I add more than 10 items to the cart, the total price stops updating correctly.",Technical,False
+Question about PTO balance,I still haven't received the enrollment forms for health insurance and the deadline is coming up soon.,HR,False
+401k contribution question,"Is fully remote work still allowed for my role, or do I need to start coming into the office?",HR,False
+Partnership inquiry,Could you tell me your office locations and business hours?,General,False
+Newsletter unsubscribe,"I just wanted to say thank you, the desktop client has made our team's work so much easier this quarter.",General,False
+App keeps crashing,"The checkout page is throwing a 500 internal server error whenever I try to complete a purchase, this is blocking all our orders.",Technical,False
+Invoice not received,The payment for my account failed even though my card has sufficient balance. Please retry the charge or tell me how to update payment details.,Billing,False
+Performance review schedule,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Benefits enrollment deadline,"Can you clarify the company's parental leave policy, specifically how many weeks are paid?",HR,False
+Site is down for everyone,"The data sync between the API and our internal system stopped working two days ago, records aren't updating anymore.",Technical,False
+Cancel my subscription,We need a GST/tax invoice with our company details for the last payment we made.,Billing,False
+401k contribution question,"Can you clarify the company's parental leave policy, specifically how many weeks are paid?",HR,False
+Update my credit card,"I'd like to upgrade from the basic plan to the pro plan, can you tell me the price difference and when the new billing cycle starts?",Billing,False
+Bug in export feature,"When I export my report to CSV the file comes out empty, this worked fine last week.",Technical,False
+Password reset link broken,"The API endpoint for orders is returning stale data, it doesn't reflect the changes I made an hour ago.",Technical,False
+Upgrade plan pricing,I'm being charged a late fee but I paid on time on the 3th. Please reverse this charge.,Billing,False
+Need a refund,I'm being charged a late fee but I paid on time on the 7th. Please reverse this charge.,Billing,False
+General question about outage and billing,Is the outage yesterday why I was still charged for downtime? Just want to understand what happened.,General,True
+Update my credit card,"I'd like to upgrade from the basic plan to the pro plan, can you tell me the price difference and when the new billing cycle starts?",Billing,False
+Error 500 on checkout,"When I export my report to CSV the file comes out empty, this worked fine last week.",Technical,False
+Tax invoice request,Could you send me a copy of the invoice for June? I need it for our accounting records.,Billing,False
+Double charged this month,"I'd like to upgrade from the basic plan to the pro plan, can you tell me the price difference and when the new billing cycle starts?",Billing,False
+Website contact form test,"We're interested in exploring a partnership between our companies, who handles business development on your side?",General,False
+Performance review schedule,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Payment failed,"There's an unexpected charge of $49 on my statement that I don't recognize, can you explain what it's for?",Billing,False
+Parental leave policy,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Invoice not received,I want to cancel my subscription and get a prorated refund for the unused days this September.,Billing,False
+Performance review schedule,"I'd like to request two weeks of unpaid leave starting next May for a family matter, what's the approval process?",HR,False
+Suggestion for improvement,Could you tell me your office locations and business hours?,General,False
+Password reset link broken,"I found a bug: when I add more than 10 items to the cart, the total price stops updating correctly.",Technical,False
+App keeps crashing,"When I export my report to CSV the file comes out empty, this worked fine last week.",Technical,False
+Just checking in,I'm filling out this form just to test that it reaches your support inbox correctly.,General,False
+Performance review schedule,"I noticed my paycheck this January is missing overtime hours I worked, can someone from payroll look into this?",HR,False
+Event invitation,"I just wanted to say thank you, your platform has made our team's work so much easier this quarter.",General,False
+Workplace complaint,When is my next performance review scheduled? My manager mentioned it but I never got a calendar invite.,HR,False
+Event invitation,Who do I contact for media and press related questions about your company?,General,False
+Press inquiry,Who do I contact for media and press related questions about your company?,General,False
+Page not loading,"the API keeps crashing every time I try to open the reports section, it just closes without any error message.",Technical,False
+Password reset link broken,"When I export my report to CSV the file comes out empty, this worked fine last week.",Technical,False
+Health insurance enrollment,I still haven't received the enrollment forms for health insurance and the deadline is coming up soon.,HR,False
+Remote work policy,Could you tell me how many PTO days I currently have left for this year?,HR,False
+Suggestion for improvement,We're hosting an industry event next quarter and would love to invite your team to speak.,General,False
+App keeps crashing,"The mobile app freezes on the splash screen and never opens, I've tried reinstalling it twice.",Technical,False
+Just checking in,"This isn't urgent, just wanted to check in and see if there are any updates on new features planned this year.",General,False
+Resignation notice,"I'd like to request two weeks of unpaid leave starting next November for a family matter, what's the approval process?",HR,False
+Question about PTO balance,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Feedback on your service,Could you tell me your office locations and business hours?,General,False
+Partnership inquiry,"I'd like to unsubscribe from your marketing newsletter, please remove my email from the list.",General,False
+Invoice not received,The payment for my account failed even though my card has sufficient balance. Please retry the charge or tell me how to update payment details.,Billing,False
+Benefits enrollment deadline,When is my next performance review scheduled? My manager mentioned it but I never got a calendar invite.,HR,False
+App keeps crashing,The password reset email link takes me to a blank page instead of the reset form.,Technical,False
+App keeps crashing,"Would it be possible to add a dark mode option? It's not urgent, just a nice-to-have for late night work.",Technical,False
+Partnership inquiry,I'm filling out this form just to test that it reaches your support inbox correctly.,General,False
+Error 500 on checkout,"your platform keeps crashing every time I try to open the reports section, it just closes without any error message.",Technical,False
+Upgrade plan pricing,I want to cancel my subscription and get a prorated refund for the unused days this November.,Billing,False
+Double charged this month,The payment for my account failed even though my card has sufficient balance. Please retry the charge or tell me how to update payment details.,Billing,False
+Just checking in,"We're interested in exploring a partnership between our companies, who handles business development on your side?",General,False
+Page not loading,"I found a bug: when I add more than 10 items to the cart, the total price stops updating correctly.",Technical,False
+Wrong amount billed,"I'd like to upgrade from the basic plan to the pro plan, can you tell me the price difference and when the new billing cycle starts?",Billing,False
+Site is down for everyone,"I can't log in to my account, it says 'invalid credentials' even though I'm using the correct password. I already tried resetting it.",Technical,False
+Late payment fee dispute,"My credit card on file expired, how do I update my payment method before the next billing date?",Billing,False
+Feature request: dark mode,"Would it be possible to add a dark mode option? It's not urgent, just a nice-to-have for late night work.",Technical,False
+Feature request: dark mode,"your platform keeps crashing every time I try to open the reports section, it just closes without any error message.",Technical,False
+API returning wrong data,"When I export my report to CSV the file comes out empty, this worked fine last week.",Technical,False
+Health insurance enrollment,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Thank you note,"This isn't urgent, just wanted to check in and see if there are any updates on new features planned this year.",General,False
+Cannot log in,"The data sync between the mobile app and our internal system stopped working two days ago, records aren't updating anymore.",Technical,False
+Event invitation,"Overall really happy with the product, just leaving some general feedback about the onboarding experience.",General,False
+Late payment fee dispute,My invoice this month shows $49 but my plan should only cost $199. Can you check the billing?,Billing,False
+Benefits enrollment deadline,"This is my formal two-weeks notice, my last working day will be the 12th of June.",HR,False
+Website contact form test,We're hosting an industry event next quarter and would love to invite your team to speak.,General,False
+Website contact form test,"I'm a journalist writing a piece about companies in your industry, who should I reach out to for a quote?",General,False
+Cancel my subscription,My invoice this month shows $19 but my plan should only cost $49. Can you check the billing?,Billing,False
+Upgrade plan pricing,The payment for my account failed even though my card has sufficient balance. Please retry the charge or tell me how to update payment details.,Billing,False
+Press inquiry,"I'd like to unsubscribe from your marketing newsletter, please remove my email from the list.",General,False
+Workplace complaint,"I noticed my paycheck this March is missing overtime hours I worked, can someone from payroll look into this?",HR,False
+Tax invoice request,My invoice this month shows $149 but my plan should only cost $19. Can you check the billing?,Billing,False
+Workplace complaint,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Feature request: dark mode,"The API endpoint for orders is returning stale data, it doesn't reflect the changes I made an hour ago.",Technical,False
+Payment failed,"I'd like to upgrade from the basic plan to the pro plan, can you tell me the price difference and when the new billing cycle starts?",Billing,False
+Subscription renewal issue,My invoice this month shows $19 but my plan should only cost $149. Can you check the billing?,Billing,False
+Requesting leave of absence,"I'd like to update my emergency contact and mailing address in the HR system, how do I do that?",HR,False
+Suggestion for improvement,I have a general suggestion: it would be great if you added a community forum for users to share tips.,General,False
+Invoice not received,I want to cancel my subscription and get a prorated refund for the unused days this November.,Billing,False
+Subscription renewal issue,"There's an unexpected charge of $199 on my statement that I don't recognize, can you explain what it's for?",Billing,False
+Bug in export feature,"The data sync between your platform and our internal system stopped working two days ago, records aren't updating anymore.",Technical,False
+Onboarding paperwork,"Can you clarify the company's parental leave policy, specifically how many weeks are paid?",HR,False
+Leave request and system access,"I'm going on leave next month, will I lose access to the internal dashboard while I'm out?",HR,True
+Cannot log in,"I found a bug: when I add more than 10 items to the cart, the total price stops updating correctly.",Technical,False
+Wrong amount billed,I'm being charged a late fee but I paid on time on the 7th. Please reverse this charge.,Billing,False
+Remote work policy,"I want to file a formal complaint about a conflict I've been having with a coworker, who should I talk to?",HR,False
+App keeps crashing,"the mobile app is extremely slow today, pages take over a minute to load and sometimes time out completely.",Technical,False
+Billing question about my role change,"I recently got promoted and I'm not sure if that changes my subscription tier or my payroll deductions, who can help?",HR,True
+Thank you note,Who do I contact for media and press related questions about your company?,General,False
+Remote work policy,"I want to file a formal complaint about a conflict I've been having with a coworker, who should I talk to?",HR,False
+Password reset link broken,"the web portal keeps crashing every time I try to open the reports section, it just closes without any error message.",Technical,False
+Website contact form test,"I'd like to unsubscribe from your marketing newsletter, please remove my email from the list.",General,False
+Cannot log in,"When I export my report to CSV the file comes out empty, this worked fine last week.",Technical,False
+Requesting leave of absence,Could you tell me how many PTO days I currently have left for this year?,HR,False
+Resignation notice,"I noticed my paycheck this September is missing overtime hours I worked, can someone from payroll look into this?",HR,False
+Feature request: dark mode,"The checkout page is throwing a 500 internal server error whenever I try to complete a purchase, this is blocking all our orders.",Technical,False
+Password reset link broken,"I can't log in to my account, it says 'invalid credentials' even though I'm using the correct password. I already tried resetting it.",Technical,False
+Question about my invoice,I want to cancel my subscription and get a prorated refund for the unused days this September.,Billing,False
+Update my credit card,I'm being charged a late fee but I paid on time on the 12th. Please reverse this charge.,Billing,False
+Bug in export feature,"The API endpoint for orders is returning stale data, it doesn't reflect the changes I made an hour ago.",Technical,False
+Bug in export feature,"The checkout page is throwing a 500 internal server error whenever I try to complete a purchase, this is blocking all our orders.",Technical,False
+Remote work policy,"I want to file a formal complaint about a conflict I've been having with a coworker, who should I talk to?",HR,False
+Press inquiry,"Overall really happy with the product, just leaving some general feedback about the onboarding experience.",General,False
+Partnership inquiry,I'm filling out this form just to test that it reaches your support inbox correctly.,General,False
+Late payment fee dispute,My invoice this month shows $49 but my plan should only cost $29. Can you check the billing?,Billing,False
+Event invitation,"I just wanted to say thank you, the web portal has made our team's work so much easier this quarter.",General,False
+Cannot log in,"It looks like the whole site is down, I'm getting a 'service unavailable' message and so is my coworker.",Technical,False
+Suggestion for improvement,"I just wanted to say thank you, the desktop client has made our team's work so much easier this quarter.",General,False
+Cannot log in,"I can't log in to my account, it says 'invalid credentials' even though I'm using the correct password. I already tried resetting it.",Technical,False
+Payroll discrepancy,"I want to file a formal complaint about a conflict I've been having with a coworker, who should I talk to?",HR,False
+Subscription renewal issue,"My credit card on file expired, how do I update my payment method before the next billing date?",Billing,False
+Refund and account access,I can't log into my account and I also want a refund for this month since I haven't been able to use the service at all.,Billing,True
+Cancel my subscription,I want to cancel my subscription and get a prorated refund for the unused days this June.,Billing,False
+Performance review schedule,When is my next performance review scheduled? My manager mentioned it but I never got a calendar invite.,HR,False
+Upgrade plan pricing,I want to cancel my subscription and get a prorated refund for the unused days this March.,Billing,False
+Press inquiry,Could you tell me your office locations and business hours?,General,False
+Double charged this month,I want to cancel my subscription and get a prorated refund for the unused days this January.,Billing,False
+General question about your company,How can I get in touch with your sales team about enterprise pricing?,General,False
+Resignation notice,"I have a question about how my 401k employer match is calculated, could HR walk me through it?",HR,False
+Suggestion for improvement,Who do I contact for media and press related questions about your company?,General,False
+How do I contact sales,Could you tell me your office locations and business hours?,General,False
+Parental leave policy,"I'd like to request two weeks of unpaid leave starting next March for a family matter, what's the approval process?",HR,False
+Slow performance on dashboard,The password reset email link takes me to a blank page instead of the reset form.,Technical,False
+Invoice not received,We need a GST/tax invoice with our company details for the last payment we made.,Billing,False
+Requesting leave of absence,"I haven't finished my onboarding paperwork yet, can someone resend the checklist and forms?",HR,False
+Remote work policy,I still haven't received the enrollment forms for health insurance and the deadline is coming up soon.,HR,False
+Event invitation,We're hosting an industry event next quarter and would love to invite your team to speak.,General,False
