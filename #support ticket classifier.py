@@ -1,6 +1,6 @@
 #support ticket classifier
 import pandas as pd
-df=pd.read_csv(r"E:\support_tickets_labeled(1).csv")
+df=pd.read_csv("support_tickets_labeled(1).csv")
 print(df.shape)
 
 print(df.head())
